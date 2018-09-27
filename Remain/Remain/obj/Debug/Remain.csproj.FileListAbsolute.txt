@@ -1,0 +1,10 @@
+C:\Users\Helal\Desktop\DotNetApplication\Remain\Remain\bin\Debug\Remain.exe.config
+C:\Users\Helal\Desktop\DotNetApplication\Remain\Remain\bin\Debug\Remain.exe
+C:\Users\Helal\Desktop\DotNetApplication\Remain\Remain\bin\Debug\Remain.pdb
+C:\Users\Helal\Desktop\DotNetApplication\Remain\Remain\obj\Debug\Remain.csprojAssemblyReference.cache
+C:\Users\Helal\Desktop\DotNetApplication\Remain\Remain\obj\Debug\Remain.Form1.resources
+C:\Users\Helal\Desktop\DotNetApplication\Remain\Remain\obj\Debug\Remain.Properties.Resources.resources
+C:\Users\Helal\Desktop\DotNetApplication\Remain\Remain\obj\Debug\Remain.csproj.GenerateResource.cache
+C:\Users\Helal\Desktop\DotNetApplication\Remain\Remain\obj\Debug\Remain.csproj.CoreCompileInputs.cache
+C:\Users\Helal\Desktop\DotNetApplication\Remain\Remain\obj\Debug\Remain.exe
+C:\Users\Helal\Desktop\DotNetApplication\Remain\Remain\obj\Debug\Remain.pdb
